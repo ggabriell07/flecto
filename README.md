@@ -63,7 +63,7 @@ Linguagem natural → Claude API extrai: valor, categoria, descrição, estado e
 | `installments` | parcelas com vencimento mensal |
 | `recent_messages` | JSONB com histórico de conversa para contexto do LLM |
 
-O campo `expense_date` permite registro retroativo — o usuário menciona uma data passada e o sistema salva corretamente sem depender da data de envio da mensagem.
+O campo `expense_date` permite registro retroativo o usuário menciona uma data passada e o sistema salva corretamente sem depender da data de envio da mensagem.
 
 ---
 

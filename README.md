@@ -1,6 +1,6 @@
-# Flecto
+# Flectos
 
-Assistente financeiro comportamental operando via WhatsApp. Sistema em produção na v7.
+Assistente financeiro comportamental operando via WhatsApp. Sistema em produção na v13.
 
 ---
 
@@ -101,4 +101,4 @@ O código-fonte dos workflows n8n e das funções de criptografia não está pú
 
 ---
 
-**v7 · em produção**
+**v13 · em produção**

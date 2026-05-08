@@ -101,4 +101,4 @@ O código-fonte dos workflows n8n e das funções de criptografia não está pú
 
 ---
 
-**v13 · em produção**
+**v15 · em produção**
